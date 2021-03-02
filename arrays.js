@@ -8,7 +8,7 @@ function addElementToBeginningOfArray(a,b) {
 
   var a = []
 
-  a.push(b)
+  a.unshift(b)
 
 return a
 
